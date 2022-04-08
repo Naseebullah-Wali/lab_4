@@ -2,7 +2,8 @@
 
 
 LOGIN PAGE
-![image](https://user-images.githubusercontent.com/70603493/162473689-ee49d999-7016-4fbb-9086-0c17f47f3b4f.png)
+
+![image](https://user-images.githubusercontent.com/70603493/162474435-cb756524-c414-4224-aca4-f14e117bf601.png)
 
 
 
